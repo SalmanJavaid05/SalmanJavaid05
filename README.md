@@ -1,5 +1,5 @@
 ## Hi! I am Salman
-* 🎤 My name is Salman Javaid and I'm a Ruby on Rails Engineer @SectorLabs
+* 🎤 My name is Salman Javaid and I'm a Ruby on Rails Engineer [@SectorLabs](https://github.com/SectorLabs) 
 * 🇵🇰 Based in Lahore, Pakistan
 
 ### 🛠 Technologies & Tools
